@@ -1,0 +1,12 @@
+{
+  "name": "ai-commit-generator",
+  "version": "1.0.0",
+  "description": "An AI-powered tool that generates smart and consistent commit messages based on your code changes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
